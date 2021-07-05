@@ -7,15 +7,16 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/aryansabet?label=Follow&style=social)
 
-- 📚 &nbsp; just a NERD CpE undergraduate student who tries to do his best.  
+- 📚 &nbsp; just an undergraduate student trying his best. 
 
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" style="float: left;"  alt="git" height='30px'><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" style="float: left;"  alt="cpp" height='25px'> 
+
 
 <img src="subasa.png"
      alt="soobaasaa"
      style="float: left;" />
      
-
+ ### Languages/Tools  
+ <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" style="float: left;"  alt="git" height='30px'><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" style="float: left;"  alt="cpp" height='25px'> 
 
 
 
