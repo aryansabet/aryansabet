@@ -7,8 +7,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/aryansabet?label=Follow&style=social)
 
-- 📚 &nbsp; just an undergraduate student trying his best. 
-
+<!-- - 📚 &nbsp; just an undergraduate student trying his best.   -->
+ 
 
 
 <img src="subasa.png"
