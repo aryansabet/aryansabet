@@ -11,9 +11,9 @@
  
 
 
-<img src="bedebezanim.jpg"
+ <!-- <img src="bedebezanim.jpg"
      alt="bedebezanim"
-     style="float: left;" />
+     style="float: left;" /> -->
      
  <!-- ### Languages/Tools  
  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" style="float: left;"  alt="git" height='30px'><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" style="float: left;"  alt="cpp" height='25px'>  -->
